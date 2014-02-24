@@ -4,3 +4,4 @@ example
 raws
 test/precache
 .rvmrc
+Gemfile.lock
